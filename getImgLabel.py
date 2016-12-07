@@ -3,7 +3,7 @@ This script uses the Vision API's label detection capabilities to find a label
 based on an image's content.
 Replace "# YOUR API KEY #" with your own Google API key.
 Run the script on an image to get a label, e.g.:
-    ./label.py <path-to-image>
+    ./getImgLabel.py <path-to-image>
 """
 
 import argparse
